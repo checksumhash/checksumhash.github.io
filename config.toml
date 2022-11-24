@@ -1,0 +1,22 @@
+baseURL = 'http://checksumhash.github.io/'
+languageCode = 'en'
+title = 'Checksum Hash - A personal blog'
+theme = 'fuji'
+
+showComments = true
+showToc = false
+
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+## Change this two to switch between different language
+defaultContentLanguage = "en" # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
+
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 10
+
+# googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
+
+
+disqusShortname = 'checksumhash'

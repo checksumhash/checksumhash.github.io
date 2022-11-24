@@ -1,0 +1,27 @@
+---
+title: "Prolog: Living in a Dictatorship"
+date: 2022-11-24T16:49:40Z
+categories:
+- Iran
+tags:
+- Iran
+- Dictatorship
+---
+You might have heard stories about the current situation in Iran, people are protesting, or better saying, it’s not a **protest** anymore, it’s a **revolution**. The government brutally kills innocent people, even children. They are using live ammunition, Nevertheless, they have failed to suppress the people yet and people are still in the streets. This is a fact that Iranian people don’t want the Islamic republic anymore, there is ample evidence supporting this fact, more than someone could have doubts about it.
+<!--more--> 
+But what do people want in Iran? Are they religious or secular? Are they supporting women rights? What kind of government are they seeking for?
+
+I have my answers, but I should warn you that there is no simple answer to these kinds of questions. Dictators always manipulate narratives. They censor the truth and publish a lot of misinformation to confuse everyone and they do this in different layers. Let me explain more.
+
+You might have read Farnaz Fassihi’s articles in the New York Times, which claims that the Iranian people are angry because of the economic downfall caused by sanctions! Let me clarify, No one believes this inside Iran. This is the outer layer where the dictator tries to fool foreign countries and their peoples and yes, Farnaz Fassihi and all the NIAC community in the US have a tight relation with Islamic Republic and IRGC, and their mission is to fool foreign politicians and people.
+
+They are some inner layers which is really harder to identify, for example, for years, they have spreaded a lot’s of misinformation about some near border states in Iran, like Kurdistan and Baluchestan, that those people doesn’t recognize themselves as Iranian, they are separatists, they all have guns and they are terrorists, you should be careful if you travel to those cities and so on. After more than two months uprising in Iran and all the brutality in the government suppression in those areas, you can’t find any evidence that they want to separate from Iran or using guns or doing terrorist acts. In fact, this is the Government security forces that using guns and acting like terrorists, and there are lot’s of videos showing people chanting in different cities supporting other cities and it’s clear that they don’t want to get separated from each other, they all just want to overthrown the Islamic Republic and the dictator.
+
+After recently seeing these facts I was ashamed of myself that sometimes I reckoned the propaganda about those cities was correct. I am sure lot’s of Iranians feel the same way. It wasn’t this much obvious previously because dictator propaganda was powerful.
+
+Those stories are just some simple samples, and the truth is that we don’t have access to truth in a dictatorship. The dictator shuts down the internet, censors every book, every newspaper, they are using their “cyber army”(a bunch of people who creates a lot’s of accounts in social medias and posting misinformation) to manipulate truth in public media like twitter which is censored in Iran by the way.  You might have some answers to the questions like “what do people want” but those are merely your opinion. And after all, there is *fear*. Fear of expressing yourself and your opinion, and because of that, you cannot trust what you’re hearing or what you’re reading. You might ask people in public what their opinion is about Iranian regime and they respond something, but you don’t know if they have expressed their real opinion or a fabricated one because they fear the dictator will detain them. Even if that person lives in a western country, there is always a danger when he/she travels back home, or it could be dangerous for their family which is still living inside Iran. And that’s the reason I am writing this anonymously. 
+
+But still there are some ways that you can find indications, facts and evidence. you should find dots and connect them to each other, you should logically process everything you hear and be prepared to filter out misinformations and propagandas. A vital piece of this is expanding your environment by listening to other people's stories and their experiences and observations.
+
+I am going to share my personal experiences and my thoughts here.
+
