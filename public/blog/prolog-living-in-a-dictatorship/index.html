@@ -59,7 +59,7 @@
 
 <body
   data-theme="auto"
-  data-theme-auto='false'
+  data-theme-auto='true'
   >
     <script data-cfasync="false">
   
@@ -79,6 +79,8 @@
     <div class="container-lg clearfix">
         <div class="col-12 header">
             <a class="title-main" href="http://checksumhash.github.io/">Checksum Hash - A personal blog</a>
+            
+            <span class="title-sub">A Personal blog.</span>
             
         </div>
     </div>
@@ -118,6 +120,29 @@
 
 
 
+<div class="post-comment" data-comment="disqus">
+    <span class="post-comment-notloaded">
+        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Load comments
+    </span>
+    <div id="disqus_thread" style="display: none;"></div>
+    <script>
+        function loadComment() {
+            var commentArea = document.querySelector('.post-comment');
+            var disqus_config = function () {
+                this.page.url = 'http:\/\/checksumhash.github.io\/blog\/prolog-living-in-a-dictatorship\/';
+                this.page.identifier = 'prolog-living-in-a-dictatorship';
+            };
+            var s = document.createElement('script');
+            s.src = 'https://' + 'checksumhash' + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            document.querySelector('#disqus_thread').removeAttribute('style');
+            (document.body || document.head).appendChild(s);
+            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
+        }
+    </script>
+</div>
+
+
 
             </div>
             <aside class="col-12 col-md-3 float-left sidebar">
@@ -126,12 +151,13 @@
         <h3>Pages</h3>
         <ul>
             
-        </ul>
-    </div>
-    
-    <div class="sidebar-item sidebar-links">
-        <h3>Links</h3>
-        <ul>
+            <li>
+                <a href="/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/index.xml">RSS</a>
+            </li>
             
         </ul>
     </div>
@@ -150,8 +176,7 @@
             
         </div>
     </div>
-    <div class="sidebar-item sidebar-toc">
-        <h3>Table of Contents</h3><nav id="TableOfContents"></nav></div>
+    
 </aside>
 
         </div>
@@ -173,12 +198,24 @@
         <h3>Pages</h3>
         <ul>
             
+            <li>
+                <a href="/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/index.xml">RSS</a>
+            </li>
+            
         </ul>
     </div>
     
     <div class="sidebar-item sidebar-links">
         <h3>Links</h3>
         <ul>
+            
+            <li>
+                <a href="" target="_blank"><span></span></a>
+            </li>
             
         </ul>
     </div>
@@ -209,7 +246,7 @@
     <div class="container-lg clearfix">
         <div class="col-12 footer">
             
-            <span>&copy; 2022
+            <span>&copy; 2022-2022
                 <a href="http://checksumhash.github.io/"></a>
                 
                 | Powered by <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"

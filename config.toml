@@ -99,6 +99,7 @@ disqusShortname = "checksumhash"
 
 # Let images display in full brightness under dark mode
 # disableDarkImage = true
+showLink = false
 
 [markup]
 [markup.goldmark]
@@ -127,10 +128,10 @@ weight = 1
 #name = "About"
 #url = "/about/"
 #weight = 3
-[[menu.nav]]
-name = "Search"
-url = "/search/"
-weight = 4
+# [[menu.nav]]
+# name = "Search"
+# url = "/search/"
+# weight = 4
 [[menu.nav]]
 name = "RSS"
 url = "/index.xml"
